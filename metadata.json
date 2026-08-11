@@ -1,0 +1,6 @@
+{
+  "name": "NexusOS 15 AI Studio",
+  "description": "Android 15 OS simulator with AI for APKs, websites, images, videos, and document editing.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
